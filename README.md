@@ -1,6 +1,7 @@
 # Práctica 1 - Introducción a Unity
 ## Ejecución
-!gif/ejecucion.gif
+![Ejecucion](./gif/ejecucion.gif)
+
 ## Descripción del trabajo
 Como objetos 3D básicos, se han añadido un cubo y una esfera, a los que además de asignarles un material, se les ha agregado la componente de *Rigidbody* para que caigan y comprobar así su desplazamiento durante la ejecución.
 
